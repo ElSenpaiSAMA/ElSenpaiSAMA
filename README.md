@@ -32,10 +32,10 @@
         <br>
         <p>
             <strong>
-               I am a student of a CFGS in DAM at Prat Educació Institute.<br><br> 
+               I´m a student of a CFGS in DAM at Prat Educació Institute.<br><br> 
                I primarily specialize in Java and Python. I also have knowledge of MySQL, Arduino, JavaScript, HTML5, and CSS.<br><br> 
                Currently, I am learning React, Unity, Node.js, and C#.<br><br> 
-               I am new to this great world and hope to continue learning more over time and apply the knowledge gained in different projects.
+               I´m new to this great world and hope to continue learning more over time and apply the knowledge gained in different projects.
             </strong>
         </p>
         <ul>
