@@ -19,12 +19,12 @@
                 Soy un estudiante de un CFGS en DAM en el instituto Prat Educacio <br><br>
                 Yo principalmente me especializo en Java y Python. Tambien tengo conocimientos en MySQL, Arduino, JavaScript, HTML5, y CSS.<br><br>
                 Actualmente me encuentro aprendiendo  React, Unity, Node.js , C#,<br><br>
-                Soy Nuevo en este gran mundo y espero poder seguir con el tiempo aprendiendo mas y aplicar los conocimientos obtenidos en diferentes projectos.
+                Soy Nuevo en este gran mundo y espero poder seguir con el tiempo aprendiendo mas y aplicar los conocimientos obtenidos en diferentes proyectos.
             </strong>
         </p>
         <ul>
             <li>🌱 <b>Que estoy estudiando actualmente</b>: CFGS EN DAM.</li>
-            <li>🤔 <b>Actualmente me encuentro abierto para</b>: Una oportunida de Prácticas, <a href="https://flowcv.com/resume/lskn9bsstl">LINK A MI CURRICULUM</a>.</li>
+            <li>🤔 <b>Actualmente me encuentro abierto para</b>: Una oportunidad de Prácticas, <a href="https://flowcv.com/resume/lskn9bsstl">LINK A MI CURRICULUM</a>.</li>
             <li>😄 <b>Datos Curiosos</b>: Amo los videojuegos(👾), Me encanta Codear(💻), Disfruto Viajar(🌍) y soy un aficionado a la cocina(🍴).</li>
         </ul>    
         <p>-------------------------------------------------------------------------------------------------------------------------------------------------------
