@@ -1,4 +1,4 @@
-## hey, what's up :)
+## Hola, Que tal :)
 
 <div align=center>
         <img src="https://github.com/ElSenpaiSAMA/recursos/blob/main/ElSenpaiSAMA%20(1).png"alt="Logo" height="200">
@@ -15,16 +15,16 @@
         <br>
         <p>
             <strong>
-                I´m a student of CFGS in DAM at Prat Educació.<br><br>
-                I specialize in Java and Python. I also have knowledge in MySQL, Arduino, JavaScript, HTML5, and CSS.<br><br>
-                I´m currently learning React, Unity, Node.js , C#,<br><br>
-                I´m new to this world and hope to continue learning over time and apply the knowledge I've gained in various projects.
+                Soy un estudiante de un CFGS en DAM en el instituto Prat Educacio <br><br>
+                Yo principalmente me especializo con Java y Python. Tambien tengo conocimientos en MySQL, Arduino, JavaScript, HTML5, y CSS.<br><br>
+                Actualmente me encuentro aprendiendo  React, Unity, Node.js , C#,<br><br>
+                Soy Nuevo en este gran mundo y espero poder seguir con el tiempo aprendiendo mas y aplicar los conocimientos obtenidos en diferentes projectos.
             </strong>
         </p>
         <ul>
-            <li>🌱 <b>I’m currently learning</b>: CFGS in DAM.</li>
-            <li>🤔 <b>I’m currently open for</b>: a internship opportunities, <a href="https://flowcv.com/resume/lskn9bsstl">LINK TO MY RESUME</a>.</li>
-            <li>😄 <b>Fun fact</b>: I love videogames(👾), Codeing(💻), Traveling(🌍), and cooking(🍴).</li>
+            <li>🌱 Que estoy estudiando actualmente : <b></b>: CFGS EN DAM.</li>
+            <li>🤔 <b>Actualmente me encuentro abierto para</b>: Una oportunida de Prácticas, <a href="https://flowcv.com/resume/lskn9bsstl">LINK A MI CURRICULUM</a>.</li>
+            <li>😄 <b>Datos Curiosos</b>: Amo los videojuegos(👾), Me encanta Codear(💻), Disfruto Viajar(🌍) y soy un aficionado a la cocina(🍴).</li>
         </ul>
     </div>
     <div align=center>
