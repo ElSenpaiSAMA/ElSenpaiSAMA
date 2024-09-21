@@ -27,7 +27,7 @@
             <li>🤔 <b>Actualmente me encuentro abierto para</b>: Una oportunida de Prácticas, <a href="https://flowcv.com/resume/lskn9bsstl">LINK A MI CURRICULUM</a>.</li>
             <li>😄 <b>Datos Curiosos</b>: Amo los videojuegos(👾), Me encanta Codear(💻), Disfruto Viajar(🌍) y soy un aficionado a la cocina(🍴).</li>
         </ul>    
-        <p>---------------------------------------------------------------------------------------------------------------------------------------------------------
+        <p>-------------------------------------------------------------------------------------------------------------------------------------------------------
         </p> 
         <br>
         <p>
@@ -43,7 +43,7 @@
             <li>🤔 <b>I´m currently open to</b>: an internship opportunity, <a href="https://flowcv.com/resume/lskn9bsstl">LINK TO MY RESUME</a>.</li>
             <li>😄 <b>Fun facts</b>:I love video games (👾), I enjoy coding (💻), I like to travel (🌍), and I'm a cooking enthusiast (🍴).</li>
         </ul>    
-        <p>---------------------------------------------------------------------------------------------------------------------------------------------------------
+        <p>-------------------------------------------------------------------------------------------------------------------------------------------------------
         </p> 
         <br>     
         <p>    
