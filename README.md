@@ -16,7 +16,7 @@
         <p>
             <strong>
                 Soy un estudiante de un CFGS en DAM en el instituto Prat Educacio <br><br>
-                Yo principalmente me especializo con Java y Python. Tambien tengo conocimientos en MySQL, Arduino, JavaScript, HTML5, y CSS.<br><br>
+                Yo principalmente me especializo en Java y Python. Tambien tengo conocimientos en MySQL, Arduino, JavaScript, HTML5, y CSS.<br><br>
                 Actualmente me encuentro aprendiendo  React, Unity, Node.js , C#,<br><br>
                 Soy Nuevo en este gran mundo y espero poder seguir con el tiempo aprendiendo mas y aplicar los conocimientos obtenidos en diferentes projectos.
             </strong>
