@@ -1,5 +1,5 @@
 
-## **Hola, Que tal :)**
+## **Hola, Que tal :) - Hey, what's up :)**
 
 <div align=center>
         <img src="https://github.com/ElSenpaiSAMA/recursos/blob/main/ElSenpaiSAMA%20(1).png"alt="Logo" height="200">
