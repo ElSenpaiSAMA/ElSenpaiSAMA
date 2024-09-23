@@ -17,7 +17,7 @@
         <p>
             <strong>
                 Soy un estudiante de un CFGS en DAM en el instituto Prat Educacio <br><br>
-                Yo principalmente me especializo en Java y Python. Tambien tengo conocimientos en MySQL, Arduino, JavaScript, HTML5, y CSS.<br><br>
+                Yo principalmente me especializo en Java y Python. Tambien tengo conocimientos en MySQL, PostgreSQL,  Arduino, JavaScript, HTML5, y CSS.<br><br>
                 Actualmente me encuentro aprendiendo  React, Unity, Node.js , C#,<br><br>
                 Soy Nuevo en este gran mundo y espero poder seguir con el tiempo aprendiendo mas y aplicar los conocimientos obtenidos en diferentes proyectos.
             </strong>
@@ -33,7 +33,7 @@
         <p>
             <strong>
                I´m a student of a CFGS in DAM at Prat Educació Institute.<br><br> 
-               I primarily specialize in Java and Python. I also have knowledge of MySQL, Arduino, JavaScript, HTML5, and CSS.<br><br> 
+               I primarily specialize in Java and Python. I also have knowledge of MySQL, PostgreSQL, Arduino, JavaScript, HTML5, and CSS.<br><br> 
                Currently, I am learning React, Unity, Node.js, and C#.<br><br> 
                I´m new to this great world and hope to continue learning more over time and apply the knowledge gained in different projects.
             </strong>
@@ -49,7 +49,7 @@
         <p>    
             <strong>    
                 Sóc un estudiant d'un CFGS en DAM a l'institut Prat Educació.<br><br> 
-                Principalment, m'especialitzo en Java i Python. També tinc coneixements en MySQL, Arduino, JavaScript, HTML5 i CSS. <br><br>
+                Principalment, m'especialitzo en Java i Python. També tinc coneixements en MySQL, PostgreSQL, Arduino, JavaScript, HTML5 i CSS. <br><br>
                 Actualment estic aprenent React, Unity, Node.js i C#.<br><br> 
                 Sóc nou en aquest gran món i espero poder seguir aprenent més amb el temps i aplicar els coneixements obtinguts en diferents projectes.
             </strong>
