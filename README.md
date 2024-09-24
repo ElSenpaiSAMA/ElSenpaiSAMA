@@ -64,7 +64,7 @@
         el meu lloc web: https://elsenpaisama.github.io/HTML_CSS_JS_Pagina_CartaPresentacion/index.html    
     </div>
     
-## **Proyecto Pagina** 
+## **Proyecto Pagina WordPress** 
 
 https://github.com/user-attachments/assets/07bb4a52-686d-4446-9ee0-585749244023
    
