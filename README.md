@@ -25,8 +25,9 @@
         <ul>
             <li>🌱 <b>Que estoy estudiando actualmente</b>: CFGS EN DAM.</li>
             <li>🤔 <b>Actualmente me encuentro abierto para</b>: Una oportunidad de Prácticas, <a href="https://flowcv.com/resume/lskn9bsstl">LINK A MI CURRICULUM</a>.</li>
-            <li>😄 <b>Datos Curiosos</b>: Amo los videojuegos(👾), Me encanta Codear(💻), Disfruto Viajar(🌍) y soy un aficionado a la cocina(🍴).</li>
-        </ul>    
+            <li>😄 <b>Datos Curiosos</b>: Amo los videojuegos(👾), Me encanta Codear(💻), Disfruto Viajar(🌍) y soy un aficionado a la cocina(🍴).</li><br>
+        </ul> 
+        Mi sitio Web: https://elsenpaisama.github.io/HTML_CSS_JS_Pagina_CartaPresentacion/index.html    
         <p>-------------------------------------------------------------------------------------------------------------------------------------------------------
         </p> 
         <br>
@@ -41,8 +42,9 @@
         <ul>
             <li>🌱 <b>What I´m currently studying</b>: CFGS in DAM.</li>
             <li>🤔 <b>I´m currently open to</b>: an internship opportunity, <a href="https://flowcv.com/resume/lskn9bsstl">LINK TO MY RESUME</a>.</li>
-            <li>😄 <b>Fun facts</b>:I love video games (👾), I enjoy coding (💻), I like to travel (🌍), and I'm a cooking enthusiast (🍴).</li>
-        </ul>    
+            <li>😄 <b>Fun facts</b>:I love video games (👾), I enjoy coding (💻), I like to travel (🌍), and I'm a cooking enthusiast (🍴).</li><br>
+        </ul>
+        My Website: https://elsenpaisama.github.io/HTML_CSS_JS_Pagina_CartaPresentacion/index.html    
         <p>-------------------------------------------------------------------------------------------------------------------------------------------------------
         </p> 
         <br>     
@@ -57,8 +59,9 @@
         <ul>
             <li>🌱 <b>Que estic estudiant actualment</b>: CFGS EN DAM..</li>
             <li>🤔 <b>Actualment estic obert a</b>: una oportunitat de pràctiques, <a href="https://flowcv.com/resume/lskn9bsstl"> LINK AL MEU CURRÍCULUM.</a>.</li>
-            <li>😄 <b>Dades curioses </b>: Estimo els videojocs (👾), m'encanta programar (💻), gaudeixo viatjar (🌍) i sóc un aficionat a la cuina (🍴)..</li>
+            <li>😄 <b>Dades curioses </b>: Estimo els videojocs (👾), m'encanta programar (💻), gaudeixo viatjar (🌍) i sóc un aficionat a la cuina (🍴)..</li><br>
         </ul>
+        el meu lloc web: https://elsenpaisama.github.io/HTML_CSS_JS_Pagina_CartaPresentacion/index.html    
     </div>
     
 ## **Proyecto Pagina** 
