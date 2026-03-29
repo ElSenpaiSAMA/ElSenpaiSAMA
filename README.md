@@ -97,9 +97,8 @@ Outside of work I've been going deep into **data engineering and AI** — ETL pi
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElSenpaiSAMA&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://ghchart.rshah.org/ElSenpaiSAMA" width="100%" />
 </div>
-
 ---
 
 <div align="center">
