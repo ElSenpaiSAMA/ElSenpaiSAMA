@@ -28,7 +28,7 @@ Outside of work I've been going deep into **data engineering and AI** — ETL pi
 
 ```
 📍 Barcelona, Spain  ·  🇦🇷 From Buenos Aires
-🏢 Backend Developer @ Novicell ES
+🏢 Developer @ IMAGINE
 📊 Learning Data Engineering & AI
 🎮 Video game fan  ·  🍴 Amateur cook
 ```
