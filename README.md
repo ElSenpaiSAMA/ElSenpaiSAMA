@@ -22,7 +22,7 @@
 
 </div>
 
-Working as a **Backend Developer at Novicell ES** — building production stuff with .NET, C# and Sitecore across multiple client projects. Got promoted from intern to dev in under 6 months, which I'm pretty happy about.
+Working as a **Developer at Imagine** — building production stuff with .NET, C# and Sitecore across multiple client projects. Got promoted from intern to dev in under 6 months, which I'm pretty happy about.
 
 Outside of work I've been going deep into **data engineering and AI** — ETL pipelines, local LLMs with Ollama, agentic workflows. Still learning, but shipping things along the way.
 
